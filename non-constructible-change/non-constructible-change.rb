@@ -12,7 +12,7 @@
 #   coins = [5, 7, 1, 1, 2, 3, 22]
 
 # Sample Output:
-#   20
+##   20
 
 def non_constructible_change(coins)
   return 1 if coins.empty?
