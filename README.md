@@ -1,4 +1,4 @@
-# AlgoExpert Challenges Project
+# The Algorithmic Solutions Project
 
 ![screenshot](https://media.licdn.com/dms/image/C4E1BAQG9848diIW0Aw/company-background_10000/0/1584731689693?e=1698526800&v=beta&t=IPwQsUfhalEn7FvrdE3Cwg1F8AUu1EvgGHZOoV8JhXA)
 
