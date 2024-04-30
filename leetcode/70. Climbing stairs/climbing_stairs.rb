@@ -8,7 +8,7 @@
 
 # Input: n = 2
 # Output: 2
-# Explanation: There are two ways to climb to the top.
+# Explanation: There are two ways to climb to the top.___
 # 1. 1 step + 1 step
 # 2. 2 steps
 
